@@ -46,7 +46,9 @@ public class Main {
 		
 		System.out.println("----");
 		
-		for (String)
+		for (String carro: novoArrayDeCarros) {
+			System.out.println("carro: " + carro);
+		}
 	}
 
 }
