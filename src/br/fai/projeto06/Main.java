@@ -42,7 +42,11 @@ public class Main {
 			novoArrayDeCarro[i] = carro;
 		}
 		
-		novoArrayDeCarros
+		novoArrayDeCarros[tamanhoDoNovoArray - 1] = "gol";
+		
+		System.out.println("----");
+		
+		for (String)
 	}
 
 }
